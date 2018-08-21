@@ -81,7 +81,7 @@ pip3 install wget
 
 ```
 ```
-git clone https://github.com/An0nUD4Y/SocialFish 
+git clone https://github.com/bogdanov-arch/SocialFish 
 
 ```
 ```
