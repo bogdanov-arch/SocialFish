@@ -29,7 +29,7 @@ bogdanov
 
 ### CLONE
 ```
-git clone https://github.com/An0nUD4Y/SocialFish.git
+git clone https://github.com/bogdanov-arch/SocialFish.git
 ```
 
 ### RUNNING (In Linux)
