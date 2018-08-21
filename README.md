@@ -19,24 +19,13 @@
 * Wget from Python
 * PHP
 * sudo
-## :octocat: DEVELOPERS 
-1. usama7628674 
-2. An0nUD4Y [ Instagram.com/its_udy ]
-3. UNDEADSEC
-4. Micrafast 
-5. alexmozzhakov
-6. _______________________ (Waiting For Your Contribution)
+## :octocat: DEVELOPER
+bogdanov
 
 ### TESTED ON FOLLOWING
-* **Kali Linux - Rolling Edition**
-
-* **Parrot OS - Rolling Edition**
-
-* **Linux Mint - 18.3 Sylvia**
 
 * **Ubuntu - 16.04.3 LTS**
 
-* **MacOS High Sierra**
 
 ### CLONE
 ```
@@ -187,16 +176,6 @@ or
  - Traditional iCloud Web Login Page
 </p>
 
-
-
-### SCREENSHOT
-![Shot](https://github.com/An0nUD4Y/SocialFish/blob/master/sc.png)
-
-![Shot](https://github.com/An0nUD4Y/SocialFish/blob/master/sc1.png)
-
-![Shot](https://github.com/An0nUD4Y/SocialFish/blob/master/sc2.png)
-
-
 ## DISCLAIMER
 <p align="center">
   TO BE USED FOR EDUCATIONAL PURPOSES ONLY
@@ -212,20 +191,3 @@ CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE."
 Taken from [LICENSE](LICENSE).
-
-
-
-
-## Help us with Donation
-If you liked the work and want to support us all, you can donate :D
-
-<img src="https://github.com/An0nUD4Y/SocialFish/blob/master/donation.png"></img>
-
-Bitcoin Address: qpuwdfv3p3gpufzctjapp0dp9z4kkk9x6cgl2hhghe
-
-
-### VIDEO DEMO
-<p align="center">
-<a href="https://www.youtube.com/watch?v=dCuZR2C7Hhw">
-  <img src="https://raw.githubusercontent.com/An0nUD4Y/SocialFish/master/video.png" />
-</a></p>
