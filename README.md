@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/An0nUD4Y/SocialFish/master/social.png">  
 </p>
 
-<h1 align="center">SocialFish v2.0</h1>
+<h1 align="center">SocialFish v0.1</h1>
 <p align="center">
        NOW MORE ATTACKS ARE AVAILABLE.
   In Ultimate phishing tool with Ngrok integrated
@@ -20,7 +20,7 @@
 * PHP
 * sudo
 ## :octocat: DEVELOPER
-bogdanov
+* bogdanov
 
 ### TESTED ON FOLLOWING
 
